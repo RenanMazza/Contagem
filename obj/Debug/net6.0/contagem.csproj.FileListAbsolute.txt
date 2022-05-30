@@ -1,0 +1,15 @@
+C:\Estudos\EstudosDeEstrutura\ESTUDOS\contagem\bin\Debug\net6.0\contagem.exe
+C:\Estudos\EstudosDeEstrutura\ESTUDOS\contagem\bin\Debug\net6.0\contagem.deps.json
+C:\Estudos\EstudosDeEstrutura\ESTUDOS\contagem\bin\Debug\net6.0\contagem.runtimeconfig.json
+C:\Estudos\EstudosDeEstrutura\ESTUDOS\contagem\bin\Debug\net6.0\contagem.dll
+C:\Estudos\EstudosDeEstrutura\ESTUDOS\contagem\bin\Debug\net6.0\ref\contagem.dll
+C:\Estudos\EstudosDeEstrutura\ESTUDOS\contagem\bin\Debug\net6.0\contagem.pdb
+C:\Estudos\EstudosDeEstrutura\ESTUDOS\contagem\obj\Debug\net6.0\contagem.csproj.AssemblyReference.cache
+C:\Estudos\EstudosDeEstrutura\ESTUDOS\contagem\obj\Debug\net6.0\contagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\EstudosDeEstrutura\ESTUDOS\contagem\obj\Debug\net6.0\contagem.AssemblyInfoInputs.cache
+C:\Estudos\EstudosDeEstrutura\ESTUDOS\contagem\obj\Debug\net6.0\contagem.AssemblyInfo.cs
+C:\Estudos\EstudosDeEstrutura\ESTUDOS\contagem\obj\Debug\net6.0\contagem.csproj.CoreCompileInputs.cache
+C:\Estudos\EstudosDeEstrutura\ESTUDOS\contagem\obj\Debug\net6.0\contagem.dll
+C:\Estudos\EstudosDeEstrutura\ESTUDOS\contagem\obj\Debug\net6.0\ref\contagem.dll
+C:\Estudos\EstudosDeEstrutura\ESTUDOS\contagem\obj\Debug\net6.0\contagem.pdb
+C:\Estudos\EstudosDeEstrutura\ESTUDOS\contagem\obj\Debug\net6.0\contagem.genruntimeconfig.cache
